@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ismaelkagou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
@@ -32,15 +31,6 @@
 - **Afriand First Bank**: Migrated SAP BI, improved reporting efficiency by **30%**.  
 - **AI Student Workflow**: Built a Django app reducing missed deadlines by **40%**.  
 - **Open Source**: Contributed to [project-name] (link).  
-
----
-
-### **📌 Pinned Repositories**  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=student-workflow-manager&theme=radical)](https://github.com/your-username/student-workflow-manager)  
-*AI-driven task manager with Django + NLP*  
-
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=healthcare-dashboard&theme=radical)](https://github.com/your-username/healthcare-dashboard)  
-*Power BI dashboard for clinic resource optimization*  
 
 ---
 
