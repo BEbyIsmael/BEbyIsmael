@@ -35,8 +35,8 @@
 ---
 
 ### **📈 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEbyIsmael&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BEbyIsmael&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
